@@ -1,0 +1,45 @@
+body{ background-color: #f39422;
+
+
+}
+h1 {
+  color: #293a80;
+  text-align: center;
+  font-family: monospace;
+  font-size: 2em;
+
+}
+p{
+  color: #293a80;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  text-align: center;
+}
+img{
+  width: 20%;
+
+
+}
+.beach {
+  background-color: blue;
+}
+.first{
+  background-color: #537ec5;
+  color: green;
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+
+}
+#heading1{
+color: yellow;
+
+}
+#heart{
+  width: 2%;
+}
+
+.images{
+width: 20%;
+
+}
